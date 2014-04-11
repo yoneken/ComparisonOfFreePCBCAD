@@ -6,7 +6,8 @@ Comparison of free (of charge) PCB CAD
 |　 | [KiCad](http://www.kicad-pcb.org/) | [Eagle (Light Edition)]((https://www.cadsoftusa.com/download-eagle/freeware/)) | [DesignSpark PCB](http://www.designspark.com/) | [CADLUS X](http://www.p-ban.com/cadlus/x_merit.html) | [PCBE](http://www.vector.co.jp/soft/winnt/business/se056371.html) | [Minimal Board Editor](http://www.suigyodo.com/online/mbe/mbe.htm) | [FreePCB](http://www.freepcb.com/) | [gEDA](http://pcb.geda-project.org/) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |OS| Windows, Linux, (Mac OSX) | Windows, Mac OSX | Windows | Windows | Windows | Windows | Windows | Linux, Mac OSX, (Windows)|
-|Schematic Editor| Yes | Yes | Yes | Yes (CADLUS Circuit) | No | Yes (BSch3V) | Yes (TinyCAD) | Yes |
+|Languages| en, bg, ca, cs, de, es, fi, fr, hu, it, ja, ko, nl, pl, pt, ru, sl, sv, zh_CN | en, ja | en, ja | ja | ja | ja | en, ja | en ||Schematic Editor| Yes | Yes | Yes | Yes (CADLUS Circuit) | No | Yes (BSch3V) | Yes (TinyCAD) | Yes |
+|Schematic Editor|Yes|Yes|Yes|Yes (CADLUS Circuit)|No|Yes (BSch3v)|Yes (TinyCAD)|Yes|
 |BOM Export| Yes | No | Yes | No | No | No | No | No |
 |Netlist Export|KiCad, OrCAD, CADSTAR, Spice| ? | ? | ? | ? | ? | ? | ? |
 |Simulation|Yes (Spice)|Yes (LTspice)|Yes (Spice)|No|No|No|No|Yes|
@@ -20,4 +21,4 @@ Comparison of free (of charge) PCB CAD
 |Draw Arc| No | Yes | ? | ? | ? | Yes | ? | Yes |
 |Image Import| Yes | ? | ? | ? | ? | ? | ? | ? |
 |Output| Gerber(RS-274X), PS, SVG, DXF, HPGL | Gerber | Gerber | ? | Gerber | Gerber | Gerber | Gerber |
-|Languages| en, bg, ca, cs, de, es, fi, fr, hu, it, ja, ko, nl, pl, pt, ru, sl, sv, zh_CN | en, ja | en, ja | ja | ja | ja | en, ja | en |
+|Gerber Viewer|Yes|No|?|No|No|No|?|Yes| 
