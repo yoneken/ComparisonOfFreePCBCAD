@@ -3,7 +3,7 @@ ComparisonOfFreePCBCAD
 
 Comparison of free (of charge) PCB CAD
 
-|　 | [KiCad](http://www.kicad-pcb.org/) | [Eagle (Light Edition)]((https://www.cadsoftusa.com/download-eagle/freeware/)) | [DesignSpark PCB](http://www.designspark.com/) | [CADLUS X](http://www.p-ban.com/cadlus/x_merit.html) | [PCBE](http://www.vector.co.jp/soft/winnt/business/se056371.html) | [Minimal Board Editor](http://www.suigyodo.com/online/mbe/mbe.htm) | [FreePCB](http://www.freepcb.com/) | [gEDA](http://pcb.geda-project.org/) |
+|　 | [KiCad](http://www.kicad-pcb.org/) | [Eagle (Light Edition)]((https://www.cadsoftusa.com/download-eagle/freeware/)) | [DesignSpark PCB](http://www.designspark.com/) | [CADLUS X](http://www.p-ban.com/cadlus/x_merit.html) | [PCBE](http://www.vector.co.jp/soft/winnt/business/se056371.html) | [MBE (Minimal Board Editor)](http://www.suigyodo.com/online/mbe/mbe.htm) | [FreePCB](http://www.freepcb.com/) | [gEDA](http://pcb.geda-project.org/) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |OS| Windows, Linux, (Mac OSX) | Windows, Mac OSX | Windows | Windows | Windows | Windows | Windows | Linux, Mac OSX, (Windows)|
 |Languages| en, bg, ca, cs, de, es, fi, fr, hu, it, ja, ko, nl, pl, pt, ru, sl, sv, zh_CN | en, ja | en, ja | ja | ja | ja | en, ja | en ||Schematic Editor| Yes | Yes | Yes | Yes (CADLUS Circuit) | No | Yes (BSch3V) | Yes (TinyCAD) | Yes |
